@@ -78,4 +78,4 @@
 - **Email:** [shreyajaiswal0575@gmail.com](mailto:shreyajaiswal0575@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jaiswalshreya05](https://www.linkedin.com/in/jaiswalshreya05)
 - **LeetCode:** [leetcode.com/u/shreyaj_05](https://leetcode.com/u/shreyaj_05)
-- **Location:** Bhopal, India (Open to Relocation: Bangalore, Hyderabad, Pune, Mumbai, Chennai, Delhi NCR, Ahmedabad / Remote)
+- **Location:** Bhopal, India (Open to Relocation: Bangalore, Hyderabad, Pune, Mumbai, Chennai, Delhi NCR, Ahmedabad, Gandhinagar, Indore, Gurgaon, Gurugram, Noida / Remote)
