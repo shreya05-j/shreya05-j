@@ -1,12 +1,14 @@
 # Shreya Jaiswal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalshreya05)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreya05-j)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shreyajaiswal0575@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiswalshreya05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreya05-j)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreyaj_05)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyajaiswal0575@gmail.com)
 
 ---
 
 ### About Me
+
 - **Undergraduate:** B.Tech in Computer Science and Engineering at **Jagran Lakecity University, Bhopal** (CGPA: 9.33 / 10.0)
 - **Technical Focus:** Autonomous Multi-Agent AI Systems, Low-Level System Design (LLD), Full-Stack Engineering (MERN / Django), and Machine Learning.
 - **Experience:**
@@ -21,27 +23,38 @@
 
 ---
 
-### Technical Skills
+### Tech Stack & Tools
 
-+-- Languages ------- Python, C/C++, SQL, JavaScript (ES6+), HTML5, CSS3
-|-- Backend & DB ---- Node.js, Express.js, Django, Django REST Framework, PostgreSQL, MySQL, MongoDB
-|-- Frontend -------- React.js, Next.js, Tailwind CSS, Responsive UI Design
-|-- AI & Agentic ---- LangGraph, CrewAI, Multi-Agent Pipelines, Scikit-Learn, Pandas, NumPy, OpenCV, Explainable AI (SHAP/LIME)
-|-- System Design --- Low-Level Design (LLD), Object-Oriented Design (OOD), Concurrency, Design Patterns
-+-- Tools & Cloud --- Git, GitHub, Docker, Postman, Linux, Jupyter Notebooks, AWS (S3, EC2 basics)
-
-
-<br>
-
+#### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nextjs,nodejs,express,django,postgres,mysql,mongodb,tailwind,git,github,docker,postman,linux,aws" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" alt="Languages" />
+</p>
+
+#### Web Development & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" alt="Frameworks and Libraries" />
+</p>
+
+#### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
+</p>
+
+#### Machine Learning & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,opencv" alt="ML & Data" />
+</p>
+
+#### Developer Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Dev Tools" />
 </p>
 
 ---
 
 ### Featured Projects
 
-| Project | Domain | Stack | Description |
+| Project | Domain | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
 | **[7-Agent Autonomous Pipeline](https://github.com/shreya05-j)** | Agentic AI / Automation | `Python` `LangGraph` `VectorDB` `APIs` | Multi-agent orchestration pipeline running 7 specialized autonomous agents (task breakdown, research, data validation, execution, critique, synthesis). |
 | **[Elevator System LLD](https://github.com/shreya05-j)** | System Design / LLD | `C++` `OOD` `Concurrency` `Design Patterns` | Thread-safe low-level design for a multi-elevator scheduling and dispatch engine using SCAN/LOOK algorithms, State, and Strategy patterns. |
@@ -64,4 +77,5 @@
 
 - **Email:** [shreyajaiswal0575@gmail.com](mailto:shreyajaiswal0575@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jaiswalshreya05](https://www.linkedin.com/in/jaiswalshreya05)
-- **Location:** Bhopal, India (Open to Relocation: Bangalore, Hyderabad, Pune, Mumbai
+- **LeetCode:** [leetcode.com/u/shreyaj_05](https://leetcode.com/u/shreyaj_05)
+- **Location:** Bhopal, India (Open to Relocation: Bangalore, Hyderabad, Pune, Mumbai, Chennai, Delhi NCR, Ahmedabad / Remote)
