@@ -14,7 +14,7 @@
 - **Experience:**
   - **Machine Learning Intern** at Flyrank.ai (June 2026 – August 2026)
   - **Open-Source Contributor** at GirlScript Summer of Code (GSSoC 2026) — AI/Agents and Open-Source Tracks
-  - **Technical Content Writer Intern** at RootandLeaves (June 2024 – August 2024)
+  - **Technical Content Writer Intern** at RootandLeaves (June 2025 – August 2025)
 - **Conference Presentations:**
   - Presented peer-reviewed research at **RICCE 2024 (MANIT Bhopal)**
   - Presented research at **RAEMPS 2025 (SIRT Bhopal)**
