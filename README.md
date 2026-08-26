@@ -9,7 +9,7 @@
 
 ### About Me
 
-- **Undergraduate:** B.Tech in Computer Science and Engineering at **Jagran Lakecity University, Bhopal** (CGPA: 9.33 / 10.0)
+- **Undergraduate:** B.Tech in Computer Science and Engineering at **Jagran Lakecity University, Bhopal** (Class of 2027 | CGPA: 9.33 / 10.0)
 - **Technical Focus:** Autonomous Multi-Agent AI Systems, Low-Level System Design (LLD), Full-Stack Engineering (MERN / Django), and Machine Learning.
 - **Experience:**
   - **Machine Learning Intern** at Flyrank.ai (June 2026 – August 2026)
@@ -19,7 +19,7 @@
   - Presented peer-reviewed research at **RICCE 2024 (MANIT Bhopal)**
   - Presented research at **RAEMPS 2025 (SIRT Bhopal)**
 - **Leadership:** Anchoring Committee Head, Design Coordinator, and Outreach for **Lakecity Hack 2.0 and 3.0**
-- **Availability:** Seeking a **6-Month Full-Time Internship (January 2027 – June 2027)** in Software Engineering, Full-Stack Development, or AI/ML.
+- **Availability:** Seeking a **6-Month Full-Time Internship (January 2027 – June 2027)** or **Full-Time / New Grad Roles (Graduating 2027)** in Software Engineering, Full-Stack Development, or AI/ML.
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shreya05-j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shreya's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya05-j&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
