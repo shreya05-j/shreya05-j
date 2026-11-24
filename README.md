@@ -12,9 +12,9 @@
 - **Undergraduate:** B.Tech in Computer Science and Engineering at **Jagran Lakecity University, Bhopal** (Class of 2027 | CGPA: 9.33 / 10.0)
 - **Technical Focus:** Autonomous Multi-Agent AI Systems, Low-Level System Design (LLD), Full-Stack Engineering (MERN / Django), and Machine Learning.
 - **Experience:**
-  - **Machine Learning Intern** at Flyrank.ai (June 2026 – August 2026)
+  - **Agentic AI Engineer Intern** at Calxmap (September 2026 – Present) — Architecting autonomous AI agents for SEO and email marketing (reducing manual operational worktime by 85%), implementing RAG-based chatbots and hybrid search, and managing end-to-end backend, frontend, and system architecture.
   - **Open-Source Contributor** at GirlScript Summer of Code (GSSoC 2026) — AI/Agents and Open-Source Tracks
-  - **Technical Content Writer Intern** at RootandLeaves (June 2025 – August 2025)
+  - **Technical Content Writer Intern** at Rootsandleaves (June 2025 – August 2025)
 - **Conference Presentations:**
   - Presented peer-reviewed research at **RICCE 2024 (MANIT Bhopal)**
   - Presented research at **RAEMPS 2025 (SIRT Bhopal)**
@@ -27,12 +27,12 @@
 
 #### Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" alt="Languages" />
 </p>
 
 #### Web Development & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,django,tailwind" alt="Frameworks and Libraries" />
 </p>
 
 #### Databases
